@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Gurushabad Singh Saluja
+ - Place: Delhi,India
+ - Bio: Software engineer. 
+ - GitHub: [9henomenal](https://github.com/9henomenal)
